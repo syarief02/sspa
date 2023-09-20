@@ -1,3 +1,6 @@
+## SKOP: KEMAMPANAN SARAAN
+
+### STRUKTUR GAJI
 Dalam konteks struktur gaji untuk jawatan Penolong Pegawai Farmasi dalam sektor awam, berikut adalah dua cadangan beserta justifikasi terperinci:
 
 **Cadangan 1: Penambahbaikan Skim Imbuhan Tetap Berdasarkan Kelayakan dan Pengalaman:**
@@ -15,6 +18,7 @@ Dalam konteks struktur gaji untuk jawatan Penolong Pegawai Farmasi dalam sektor 
 Melalui cadangan-cadangan ini, kita dapat memastikan bahawa struktur gaji untuk jawatan Penolong Pegawai Farmasi adalah kompetitif, adil, dan memotivasikan mereka untuk mencapai prestasi tertinggi dalam penyediaan perkhidmatan farmasi dalam perkhidmatan awam.
 
 ***
+### ELAUN
 Dalam konteks elaun untuk jawatan Penolong Pegawai Farmasi dalam sektor awam, berikut adalah dua cadangan beserta justifikasi terperinci:
 
 **Cadangan 1: Pengenalan Elaun Khusus untuk Latihan dan Pengembangan Profesional:**
@@ -31,6 +35,8 @@ Dalam konteks elaun untuk jawatan Penolong Pegawai Farmasi dalam sektor awam, be
 
 Melalui cadangan-cadangan ini, kita dapat memastikan bahawa Penolong Pegawai Farmasi menerima ganjaran yang sesuai dengan usaha mereka dalam memperbaharui pengetahuan dan meningkatkan prestasi dalam perkhidmatan farmasi dalam perkhidmatan awam.
 ***
+
+### KEMUDAHAN
 Dalam konteks kemudahan untuk jawatan Penolong Pegawai Farmasi dalam perkhidmatan awam, berikut adalah dua cadangan beserta justifikasi terperinci:
 
 **Cadangan 1: Penawaran Kemudahan Khusus untuk Kursus Pembangunan Profesional:**
@@ -47,7 +53,9 @@ Dalam konteks kemudahan untuk jawatan Penolong Pegawai Farmasi dalam perkhidmata
 
 Melalui cadangan-cadangan ini, kita dapat memastikan bahawa Penolong Pegawai Farmasi menerima ganjaran dan pengiktirafan yang sesuai dengan usaha dan prestasi mereka dalam penyediaan perkhidmatan farmasi dalam perkhidmatan awam.
 ***
+## SKOP: PEMBANGUNAN ORGANISASI
 
+### STRUKTUR PERKHIDMATAN
 berikut adalah dua cadangan beserta justifikasi untuk Kumpulan Pelaksana dalam struktur perkhidmatan:
 
 **Cadangan 1: Peningkatan Kursus Pembangunan Kemahiran dan Latihan:**
@@ -62,7 +70,7 @@ berikut adalah dua cadangan beserta justifikasi untuk Kumpulan Pelaksana dalam s
 
 - **Justifikasi:** Program pengiktirafan prestasi akan memotivasikan anggota Kumpulan Pelaksana untuk bekerja dengan lebih baik dan mencapai hasil yang cemerlang. Ini adalah insentif yang penting untuk menjadikan mereka lebih komited dalam menjalankan tugas harian mereka dengan sempurna. Tambahan pula, ia akan membantu mengenali dan menyokong bakat dalam kumpulan ini, yang pada gilirannya dapat meningkatkan produktiviti dan kualiti perkhidmatan.
 ***
-
+### SKIM PERKHIDMATAN
 berikut adalah dua cadangan beserta justifikasi terperinci untuk skim perkhidmatan bagi jawatan Penolong Pegawai Farmasi dalam perkhidmatan awam:
 
 **Cadangan 1: Mewajibkan Kelulusan Kelayakan Farmasi dan Pengalaman:**
@@ -80,22 +88,9 @@ berikut adalah dua cadangan beserta justifikasi terperinci untuk skim perkhidmat
 Melalui cadangan-cadangan ini, kita dapat memastikan bahawa Penolong Pegawai Farmasi dalam perkhidmatan awam mempunyai kelulusan dan kemahiran yang sesuai serta terus memperbaharui pengetahuan mereka untuk memberikan perkhidmatan farmasi yang berkualiti dan selamat kepada masyarakat.
 
 ***
-Dalam konteks pengurusan bakat dalam perkhidmatan awam, terdapat banyak bidang yang perlu diambil kira. Berikut adalah dua cadangan beserta justifikasi untuk meningkatkan aspek-aspek tertentu dalam pengurusan bakat dalam perkhidmatan awam:
+## SKOP: PENGURUSAN BAKAT
 
-**Cadangan 1: Pengukuhan Sistem Pengurusan Prestasi:**
-
-- **Cadangan:** Menguatkuasakan sistem pengurusan prestasi yang lebih telus, berdasarkan matlamat dan penilaian prestasi yang jelas. Ini harus termasuk penetapan sasaran prestasi yang terukur dan penyelarasan imbuhan dengan pencapaian prestasi individu.
-
-- **Justifikasi:** Sistem pengurusan prestasi yang kuat adalah penting dalam mengenal pasti dan mengiktiraf penjawat awam yang berprestasi tinggi serta mengekalkan peningkatan prestasi dalam perkhidmatan awam. Dengan sasaran prestasi yang jelas dan imbuhan yang sesuai, penjawat awam akan terdorong untuk berusaha mencapai sasaran tersebut. Ini akan memberi insentif kepada penjawat awam untuk memberikan yang terbaik dalam tugas-tugas mereka.
-
-**Cadangan 2: Membangunkan Program Pembangunan Kerjaya Berstruktur:**
-
-- **Cadangan:** Menyediakan program pembangunan kerjaya yang berstruktur bagi penjawat awam untuk membolehkan mereka merancang, memajukan, dan menguruskan kerjaya mereka dalam perkhidmatan awam. Ini termasuk peluang pelatihan, pembelajaran berterusan, dan pengiktirafan profesional.
-
-- **Justifikasi:** Program pembangunan kerjaya yang berstruktur akan membantu mengekalkan bakat dalam perkhidmatan awam dan memberi peluang kepada penjawat awam untuk berkembang dalam kerjaya mereka. Ini juga akan membantu memastikan bahawa penjawat awam mempunyai peluang untuk meningkatkan kemahiran dan pengetahuan mereka, yang pada gilirannya akan meningkatkan produktiviti dan kualiti perkhidmatan awam. Selain itu, program ini akan membantu mengiktiraf pencapaian dan usaha penjawat awam dalam pembangunan kerjaya mereka.
-
-Melalui cadangan-cadangan ini, pengurusan bakat dalam perkhidmatan awam dapat diperkuatkan, dan penjawat awam akan dapat memanfaatkan peluang untuk berkembang dalam kerjaya mereka sambil memberikan hasil yang lebih baik dalam perkhidmatan awam.
-***
+### PRESTASI DAN KOMPETENSI
 Dalam konteks pengukuran prestasi dan pengenalpastian kompetensi dalam perkhidmatan awam, berikut adalah dua cadangan beserta justifikasi terperinci:
 
 **Cadangan 1: Pembangunan Sistem Penilaian Prestasi Yang Holistik:**
@@ -112,6 +107,7 @@ Dalam konteks pengukuran prestasi dan pengenalpastian kompetensi dalam perkhidma
 
 Melalui cadangan-cadangan ini, kita dapat memperbaiki sistem pengukuran prestasi dan memastikan bahawa penjawat awam mempunyai kompetensi yang diperlukan untuk menjalankan tugas mereka dengan cemerlang dalam perkhidmatan awam.
 ***
+### KEMAJUAN KERJAYA
 Dalam konteks kemajuan kerjaya dalam perkhidmatan awam, berikut adalah dua cadangan beserta justifikasi terperinci:
 
 **Cadangan 1: Pembangunan Program Pembangunan Kerjaya Berstruktur:**
@@ -128,6 +124,8 @@ Dalam konteks kemajuan kerjaya dalam perkhidmatan awam, berikut adalah dua cadan
 
 Melalui cadangan-cadangan ini, kita dapat memastikan bahawa setiap penjawat awam mempunyai peluang untuk merancang kemajuan kerjaya mereka dengan lebih baik dan mengambil tanggungjawab yang sesuai dengan potensi mereka. Ini akan membantu memelihara bakat dalam perkhidmatan awam dan meningkatkan kualiti perkhidmatan yang disediakan kepada orang awam.
 ***
+
+### GANJARAN
 Dalam konteks ganjaran dalam perkhidmatan awam, terutama untuk jawatan Penolong Pegawai Farmasi, berikut adalah dua cadangan beserta justifikasi terperinci:
 
 **Cadangan 1: Penambahbaikan Sistem Pemberian Anugerah Perkhidmatan Cemerlang (APC)/Pingat Perkhidmatan Cemerlang (PPC):**
@@ -142,6 +140,8 @@ Dalam konteks ganjaran dalam perkhidmatan awam, terutama untuk jawatan Penolong 
 
 - **Justifikasi:** Sistem PGT yang berkaitan dengan prestasi akan memberikan insentif yang lebih jelas kepada Penolong Pegawai Farmasi untuk berusaha mencapai prestasi terbaik. Ini akan mencipta hubungan langsung antara pencapaian prestasi dan ganjaran kewangan. Selain itu, ia akan memastikan bahawa penjawat awam yang mencapai prestasi cemerlang akan mendapat pengiktirafan dalam bentuk kenaikan gaji yang lebih cepat, yang akan memberi manfaat kepada mereka dan mendorong prestasi yang lebih baik dalam penyediaan perkhidmatan farmasi.
 ***
+
+### TATATERTIB DAN PENAMATAN
 Dalam konteks tatatertib dan penamatan dalam perkhidmatan awam, termasuk untuk jawatan Penolong Pegawai Farmasi, berikut adalah dua cadangan beserta justifikasi terperinci:
 
 **Cadangan 1: Penambahbaikan Prosedur Tatatertib yang Telus dan Adil:**
